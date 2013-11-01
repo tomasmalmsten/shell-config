@@ -1,0 +1,5 @@
+README - shell-config
+=====================
+This is my current shell setup with emacs config.
+
+It's licensed under GNU GPL v3.
