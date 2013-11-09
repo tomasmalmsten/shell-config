@@ -1,0 +1,21 @@
+
+;; ----- smex-history -----
+(
+ nrepl
+ nrepl-jack-in
+ ispell-buffer
+ asciidoc-compile
+ ispell-word
+ eval-buffer
+ cd
+)
+
+;; ----- smex-data -----
+(
+ (nrepl-jack-in . 6)
+ (eval-buffer . 1)
+ (nrepl . 3)
+ (ispell-buffer . 3)
+ (ispell-word . 1)
+ (asciidoc-compile . 7)
+)
