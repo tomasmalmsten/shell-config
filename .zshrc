@@ -36,11 +36,11 @@ plugins=(git mvn brew osx svn)
 source $ZSH/oh-my-zsh.sh
 
 # Customize to your needs...
-export PATH=/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/X11/bin:/usr/local/share/python:/usr/local/mysql/bin:~/karaf/current/bin:/usr/local/Cellar/ruby/bin
+export PATH=/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/X11/bin:/usr/local/mysql/bin:~/karaf/current/bin:/usr/local/Cellar/ruby/bin
 export JAVA_HOME=/Library/Java/JavaVirtualMachines/current/Contents/Home
 export MAVEN_OPTS="-XX:MaxPermSize=256m -Xmx1024m -Xms1024m"
-export LIQUIBASE_HOME=/usr/local/Cellar/liquibase/2.0.5/libexec
-export JREBEL_HOME=~/jrebel
+export GROOVY_HOME=/usr/local/opt/groovy/libexec
+export GRAILS_HOME=/usr/local/opt/grails/libexec
 export EDITOR=emacs
 export PATH=$PATH:~/bash-scripts
 

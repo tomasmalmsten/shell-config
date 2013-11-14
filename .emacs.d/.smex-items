@@ -1,13 +1,13 @@
 
 ;; ----- smex-history -----
 (
- nrepl
- nrepl-jack-in
  ispell-buffer
  asciidoc-compile
  ispell-word
  eval-buffer
  cd
+ 5x5
+ arp
 )
 
 ;; ----- smex-data -----
