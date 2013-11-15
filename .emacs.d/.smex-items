@@ -1,13 +1,13 @@
 
 ;; ----- smex-history -----
 (
+ package-list-packages
  ispell-buffer
  asciidoc-compile
  ispell-word
  eval-buffer
  cd
  5x5
- arp
 )
 
 ;; ----- smex-data -----
@@ -18,4 +18,6 @@
  (ispell-buffer . 3)
  (ispell-word . 1)
  (asciidoc-compile . 7)
+ (package-list-packages . 1)
+ (groovy-mode . 1)
 )

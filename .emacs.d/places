@@ -4,6 +4,8 @@
  ("/Users/tomasmalmsten/.emacs.d/elpa/dash-2.3.0/dash-autoloads.el" . 169)
  ("/Users/tomasmalmsten/.emacs.d/elpa/elisp-slime-nav-0.6/elisp-slime-nav-autoloads.el" . 1325)
  ("/Users/tomasmalmsten/.emacs.d/elpa/epl-0.4/epl-autoloads.el" . 166)
+ ("/Users/tomasmalmsten/.emacs.d/elpa/grails-mode-0.1/grails-mode-autoloads.el" . 190)
+ ("/Users/tomasmalmsten/.emacs.d/elpa/groovy-mode-201203310931/groovy-mode-autoloads.el" . 807)
  ("/Users/tomasmalmsten/.emacs.d/elpa/nrepl-0.2.0/nrepl-autoloads.el" . 1448)
  ("/Users/tomasmalmsten/.emacs.d/elpa/pkg-info-0.4/pkg-info-autoloads.el" . 2542)
  ("/Users/tomasmalmsten/.emacs.d/elpa/starter-kit-bindings-2.0.2/starter-kit-bindings-autoloads.el" . 2126)
