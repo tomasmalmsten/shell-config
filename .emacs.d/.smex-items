@@ -2,22 +2,34 @@
 ;; ----- smex-history -----
 (
  package-list-packages
+ global-set-key
+ kmacro-bind-to-key
+ shell-command
+ package-install
+ package-menu-refresh
  ispell-buffer
- asciidoc-compile
- ispell-word
- eval-buffer
- cd
- 5x5
 )
 
 ;; ----- smex-data -----
 (
- (nrepl-jack-in . 6)
+ (nrepl-jack-in . 8)
  (eval-buffer . 1)
- (nrepl . 3)
+ (nrepl . 4)
  (ispell-buffer . 3)
  (ispell-word . 1)
  (asciidoc-compile . 7)
- (package-list-packages . 1)
- (groovy-mode . 1)
+ (package-list-packages . 12)
+ (groovy-mode . 2)
+ (coffee-mode . 1)
+ (coffee-repl . 1)
+ (javascript-mode . 2)
+ (comment-region . 3)
+ (uncomment-region . 2)
+ (package-install . 7)
+ (emacs-version . 1)
+ (package-menu-refresh . 2)
+ (js2-mode . 1)
+ (shell-command . 1)
+ (kmacro-bind-to-key . 1)
+ (global-set-key . 1)
 )
